@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://ics-control-lab.github.io/experiments/</loc>
+         <lastmod>2026-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://ics-control-lab.github.io/experiments/for-students/</loc>
+         <lastmod>2026-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://ics-control-lab.github.io/experiments/experiments/_template/</loc>
+         <lastmod>2026-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://ics-control-lab.github.io/experiments/experiments/adip/</loc>
+         <lastmod>2026-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://ics-control-lab.github.io/experiments/experiments/raspbot-v2/</loc>
+         <lastmod>2026-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://ics-control-lab.github.io/experiments/experiments/retro-pong-rl/</loc>
+         <lastmod>2026-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://ics-control-lab.github.io/experiments/experiments/ros2-lab-network/</loc>
+         <lastmod>2026-09-10</lastmod>
+    </url>
+    <url>
+         <loc>https://ics-control-lab.github.io/experiments/experiments/tclab/</loc>
+         <lastmod>2026-09-10</lastmod>
+    </url>
+</urlset>
